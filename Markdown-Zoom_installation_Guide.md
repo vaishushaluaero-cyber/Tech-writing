@@ -1,6 +1,6 @@
 # Getting Started on Zoom
 This is only for vaishu
-This is only for shalu
+This is only for shalu..
 - [Getting Started on Zoom](#getting-started-on-zoom)
   - [How to Sign Up for the First Time](#how-to-sign-up-for-the-first-time)
   - [How to Download the Zoom Client](#how-to-download-the-zoom-client)
